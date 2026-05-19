@@ -1,0 +1,9 @@
+{
+    "L": 600,
+    "H": 400,
+    "mu": 0.5,
+    "rayon": 10,
+    "balles": [
+        {"position_x": 100, "position_y": 100, "vitesse_x": 300, "vitesse_y": 200}
+    ]
+}
